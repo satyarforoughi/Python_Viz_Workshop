@@ -1,0 +1,7 @@
+.ipynb_checkpoints/
+__pycache__/
+# Files the notebook creates when you run it
+average_body_mass.png
+average_body_mass.svg
+body_mass_interactive.html
+my_penguin_chart.html
